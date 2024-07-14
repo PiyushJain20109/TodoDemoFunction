@@ -6,7 +6,7 @@
     "WEBSITE_SITE_NAME": "TodoDemoFunction",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
     "WEBSITE_AUTH_ENABLED": "False",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azureincubation87a7;AccountKey=WjDAE674bDB+MDui572KN0dxJ1Z0XUNyDwWnDZRFoZemYLYv6MW50txFux2bw4p7ttFVxTXCnPVd+AStUi5h7A==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azureincubation87a7;AccountKey={yourSecretKey};EndpointSuffix=core.windows.net",
     "ScmType": "None",
     "WEBSITE_CONTENTSHARE": "tododemofunctiona957",
     "WEBSITE_SLOT_NAME": "Production",
