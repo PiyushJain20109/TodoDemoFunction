@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=azureincubation87a7;AccountKey=WjDAE674bDB+MDui572KN0dxJ1Z0XUNyDwWnDZRFoZemYLYv6MW50txFux2bw4p7ttFVxTXCnPVd+AStUi5h7A==;EndpointSuffix=core.windows.net",
+    "WEBSITE_SITE_NAME": "TodoDemoFunction",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azureincubation87a7;AccountKey=WjDAE674bDB+MDui572KN0dxJ1Z0XUNyDwWnDZRFoZemYLYv6MW50txFux2bw4p7ttFVxTXCnPVd+AStUi5h7A==;EndpointSuffix=core.windows.net",
+    "ScmType": "None",
+    "WEBSITE_CONTENTSHARE": "tododemofunctiona957",
+    "WEBSITE_SLOT_NAME": "Production",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=d805c526-bf61-4b8f-818d-d565fc61ca89;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=cb995a9c-1573-4a9b-90c1-2e70c7bb6755",
+    "WEBSITE_USE_PLACEHOLDER_DOTNETISOLATED": "1"
+  }
+}
